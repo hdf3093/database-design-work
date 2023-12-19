@@ -7,3 +7,15 @@
 [submodule "4-sql-crud-hdf3093"]
 	path = 4-sql-crud-hdf3093
 	url = https://github.com/dbdesign-students-fall2023/4-sql-crud-hdf3093
+[submodule "5-database-design-hdf3093"]
+	path = 5-database-design-hdf3093
+	url = https://github.com/dbdesign-students-fall2023/5-database-design-hdf3093
+[submodule "6-mongodb-analysis-hdf3093"]
+	path = 6-mongodb-analysis-hdf3093
+	url = https://github.com/dbdesign-students-fall2023/6-mongodb-analysis-hdf3093
+[submodule "7-web-app-hdf3093"]
+	path = 7-web-app-hdf3093
+	url = https://github.com/dbdesign-students-fall2023/7-web-app-hdf3093
+[submodule "8-pandas-exploration-hdf3093"]
+	path = 8-pandas-exploration-hdf3093
+	url = https://github.com/dbdesign-students-fall2023/8-pandas-exploration-hdf3093
